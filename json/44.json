@@ -1,0 +1,27 @@
+{
+  "name": "Emoji Faces #44",
+  "description": "Emoji Faces NFT Collection, Mint and Earn",
+  "image": "ipfs://QmbpWAWwEmRSRmvstFkHs2o32z3N8qsntkiJyo6FD2PuR2/44.png",
+  "dna": "ff8c2374b075eb128d28780f618841ad834524d2",
+  "edition": 44,
+  "date": 1686692455301,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Left Eye",
+      "value": "Skew"
+    },
+    {
+      "trait_type": "Right Eye",
+      "value": "Skew"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile Skew Huge"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
